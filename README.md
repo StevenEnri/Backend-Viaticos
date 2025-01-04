@@ -7,6 +7,7 @@
 Asegúrate de tener las siguientes herramientas instaladas en tu máquina:
 
 Java 17 o superior.
+
 Maven o Gradle (dependiendo de la herramienta de construcción utilizada).
 
 ## Clonación
