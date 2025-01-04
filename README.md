@@ -17,14 +17,18 @@ Para comenzar, clona el repositorio utilizando el siguiente comando:
 
 ## Ejecutar la aplicación
 Usando Visual Studio Code
+
 Sigue estos pasos para ejecutar la aplicación:
 
 Abre la carpeta en Visual Studio Code.
+
 Asegúrate de tener la extensión Java Extension Pack instalada en Visual Studio Code.
 
 Puedes ejecutar la aplicación de las siguientes maneras:
 Haz clic en el botón de Run en la parte superior derecha de la ventana de Visual Studio Code.
+
 O presiona F5 para ejecutar la aplicación en modo de depuración.
+
 Esto iniciará el servidor de desarrollo de Spring Boot. La aplicación estará disponible en:
 
 `http://localhost:8080`
